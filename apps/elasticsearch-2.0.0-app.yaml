@@ -3,7 +3,7 @@ kind: App
 metadata:
   annotations:
     apps.kommander.d2iq.io/category: logging
-    apps.kommander.d2iq.io/description: elastic description
+    apps.kommander.d2iq.io/description: Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
     apps.kommander.d2iq.io/display-name: Elasticsearch
     apps.kommander.d2iq.io/scope: workspace
     apps.kommander.d2iq.io/type: custom

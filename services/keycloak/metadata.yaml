@@ -1,3 +1,11 @@
-type: internal
+displayName: Keycloak
+description: Keycloak is an open source identity and access management for modern applications and services.
+category:
+  - security
+type: catalog
 scope:
   - workspace
+certifications:
+overview: |-
+  # Overview
+  Keycloak is an open source identity and access management for modern applications and services.
